@@ -40,8 +40,6 @@ def round_robin(processes: list, q: int) -> None:
         # increment time
         t += 1
 
-
-
     print(" -> ".join(log))
 
 
